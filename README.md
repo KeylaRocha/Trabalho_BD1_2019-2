@@ -8,4 +8,4 @@ Para testá-lo, é necessario:
 1 - Baixar todos os arquivos e coloca-los na pasta do seu servidor;
 2 - Importar o banco de dados ferramenta.sql;
 3 - Caso seu usuario seja diferente do root no MySQL ou tenha senha, será necessário modificar o arquivo applications/config.php, colocando nos campos correspondentes o usuario e a senha do MySQL;
-4 - localhost/trabalho_BD1_2019-1/
+4 - localhost/Trabalho_BD1_2019-1/
